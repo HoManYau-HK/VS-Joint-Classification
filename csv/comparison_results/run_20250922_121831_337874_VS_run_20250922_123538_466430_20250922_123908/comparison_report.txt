@@ -1,0 +1,20 @@
+Graph Comparison Report
+Run A: run_20250922_121831_337874
+Run B: run_20250922_123538_466430
+Export root: /Users/td3003/Github/VS-Joint-Classification/csv
+Generated: 20250922_123908
+
+COUNTS
+- Nodes A: 51, Nodes B: 51
+- Common nodes: 51
+- A-only nodes: 0
+- B-only nodes: 0
+
+- Edges A: 2, Edges B: 2
+- Common edges: 0
+- A-only edges: 2
+- B-only edges: 2
+
+ATTRIBUTE DIFFERENCES
+- Nodes with attribute diffs: 51
+- Edges with attribute diffs: 0
